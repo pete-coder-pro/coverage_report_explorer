@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coveragereportroamer-dev-152036-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553362732112:role/amplify-coveragereportroamer-dev-152036-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553362732112:role/amplify-coveragereportroamer-dev-152036-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-coveragereportroamer-dev-152036-deployment",
+      "UnauthRoleName": "amplify-coveragereportroamer-dev-152036-unauthRole",
+      "StackName": "amplify-coveragereportroamer-dev-152036",
+      "StackId": "arn:aws:cloudformation:eu-central-1:553362732112:stack/amplify-coveragereportroamer-dev-152036/e0cc2ad0-2a24-11ee-a807-0274b50880c8",
+      "AmplifyAppId": "d2zub86j9rg6v4"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2zub86j9rg6v4",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
