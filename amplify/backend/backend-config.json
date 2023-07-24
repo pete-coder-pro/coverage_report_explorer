@@ -72,6 +72,22 @@
     }
   },
   "parameters": {
+    "AMPLIFY_function_coveragereportroamer0bdec695_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "coveragereportroamer0bdec695"
+        }
+      ]
+    },
+    "AMPLIFY_function_coveragereportroamer0bdec695_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "coveragereportroamer0bdec695"
+        }
+      ]
+    },
     "AMPLIFY_hosting_amplifyhosting_appId": {
       "usedBy": [
         {

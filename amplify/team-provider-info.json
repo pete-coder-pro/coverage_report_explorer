@@ -9,7 +9,8 @@
       "UnauthRoleName": "amplify-coveragereportroamer-dev-152036-unauthRole",
       "StackName": "amplify-coveragereportroamer-dev-152036",
       "StackId": "arn:aws:cloudformation:eu-central-1:553362732112:stack/amplify-coveragereportroamer-dev-152036/e0cc2ad0-2a24-11ee-a807-0274b50880c8",
-      "AmplifyAppId": "d2zub86j9rg6v4"
+      "AmplifyAppId": "d2zub86j9rg6v4",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-coveragereportroamer-dev-152036-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
     },
     "categories": {
       "hosting": {
@@ -22,7 +23,16 @@
         "coveragereportroamera134eff3a134eff3": {}
       },
       "function": {
-        "coveragereportroamer0bdec695": {}
+        "coveragereportroamer0bdec695": {
+          "deploymentBucketName": "amplify-coveragereportroamer-dev-152036-deployment",
+          "s3Key": "amplify-builds/coveragereportroamer0bdec695-4a426c4b794a30637031-build.zip"
+        }
+      },
+      "storage": {
+        "dynamof553b790": {}
+      },
+      "api": {
+        "apidc09751e": {}
       }
     }
   }
