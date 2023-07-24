@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pete-coder-pro/coverage_report_explorer/issues"
   },
-  "homepage": "https://github.com/pete-coder-pro/coverage_report_explorer#readme"
+  "homepage": "https://github.com/pete-coder-pro/coverage_report_explorer#readme",
+  "dependencies": {
+    "aws-amplify": "^5.3.5"
+  }
 }
