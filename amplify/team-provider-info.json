@@ -10,6 +10,12 @@
       "StackName": "amplify-coveragereportroamer-dev-210320",
       "StackId": "arn:aws:cloudformation:eu-central-1:553362732112:stack/amplify-coveragereportroamer-dev-210320/6e8febb0-240b-11ee-9f0c-0a4491dc1b2e",
       "AmplifyAppId": "d2jeqljh4mgukr"
+    },
+    "categories": {
+      "auth": {
+        "coveragereportroamera2386bae": {},
+        "coveragereportroamera45fd6f9a45fd6f9": {}
+      }
     }
   }
 }
