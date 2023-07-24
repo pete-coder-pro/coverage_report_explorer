@@ -15,4 +15,8 @@ function App({ signOut, user }) {
   );
 }
 
-export default withAuthenticator(App);
+const withAuthenticatorOptions = {
+  hideSignUp: true,
+};
+
+export default withAuthenticator(App, withAuthenticatorOptions);
