@@ -17,6 +17,9 @@
           "appId": "d2zub86j9rg6v4",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "coveragereportroamera134eff3a134eff3": {}
       }
     }
   }
