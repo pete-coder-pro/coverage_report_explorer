@@ -1,0 +1,14 @@
+{
+  "resourceName": "dynamof553b790",
+  "tableName": "dynamof553b790",
+  "partitionKey": {
+    "fieldName": "name",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "age",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
